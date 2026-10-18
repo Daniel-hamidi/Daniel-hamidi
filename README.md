@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋
+👋 Hi, I'm Daniyal Hamidi!
 
-<!--
-**Daniel-hamidi/Daniel-hamidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** passionate about building modern, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+🚀 I enjoy turning ideas into real projects, exploring new technologies, and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Tools
+- 🌐 Frontend: HTML, CSS, JavaScript
+- ⚙️ Backend: Node.js, Express
+- 🗄️ Databases: SQL, MongoDB
+- 🔧 Tools: Git, GitHub, VS Code
+
+🎯 My Goals
+- Build useful and creative projects.
+- Improve my development skills every day.
+- Explore new technologies and frameworks.
+- Contribute to open-source projects.
+
+📫 Let's Connect
+I'm always interested in learning, building, and collaborating with other developers!
+
+⭐ *Building today. Improving tomorrow.*
